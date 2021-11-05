@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Демфарм</title>
+    <link rel="stylesheet" href="css/main.scss">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@300;400;900&display=swap"
+          rel="preconnect " as="font">
+    <link
+            rel="stylesheet"
+            href="https://unpkg.com/swiper@7/swiper-bundle.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+    <script type="module" src="js/main.js"></script>
+
+    <meta name="title" content="Демфарм">
+    <meta name="description"
+          content="Перевязки в астане">
+</head>
+<body>
+<nav class="navbar w-full fixed z-60 bg-primary text-white"
+     x-data="{ isOpen: false }"
+     @keydown.escape="isOpen = false"
+     :class="{ 'shadow-lg bg-primary border-b border-white border-opacity-20' : isOpen , 'bg-primary' : !isOpen}">
+
+    <div class="container mx-auto">
+        <div class="navbar-wrap ">
+            <div class="navbar-wrap__item">
+                <div class="flex justify-between">
+                    <div class="navbar__logo p-5">Demfarm</div>
+
+                    <button aria-label="menu" x-cloak @click="isOpen = !isOpen"
+                            type="button"
+                            class="shadow-xl bg-white bg-opacity-5 block lg:hidden px-2 text-gray-500 hover:text-white focus:outline-none focus:text-white"
+                            :class="{ 'transition transform-180': isOpen }">
+
+                        <div class="icon icon-lg text-3xl icon-close" x-show="isOpen"></div>
+                        <div class="icon icon-lg text-2xl icon-burger" x-show="!isOpen"></div>
+
+                    </button>
+                </div>
+
+                <ul x-cloak class="navbar-menu leading-loose bg-primary "
+                    :class="{ 'block shadow-3xl': isOpen, 'hidden': !isOpen }"
+                    @click.away="isOpen = false"
+                    x-show.transition="true">
+                    <li class="navbar-menu__item">
+                        <a @click="$scroll('#home'), isOpen = false" class="navbar-menu__link" href="#">О нас</a>
+                    </li>
+                    <li class="navbar-menu__item">
+                        <a @click="$scroll('#contact'), isOpen = false" class="navbar-menu__link" href="#">Услуги</a>
+                    </li>
+                    <li class="navbar-menu__item">
+                        <a @click="$scroll('#partners'), isOpen = false" class="navbar-menu__link" href="#">Партнеры</a>
+                    </li>
+                    <li class="navbar-menu__item">
+                        <a @click="$scroll('#contact'), isOpen = false" class="navbar-menu__link" href="#">Контакты</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="navbar-wrap__item hidden justify-end">
+
+                <div class="navbar-item mr-5">
+                    <a href="">
+                        +7761604911</a>
+                </div>
+
+                <div class="navbar-item">
+                    <button class="btn btn-secondary btn-regular">Заказать звонок</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>

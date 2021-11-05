@@ -1,0 +1,39 @@
+
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/alpine-collective/alpine-magic-helpers/dist/scroll.js"></script>
+
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 5,
+        spaceBetween: 10,
+        loop: true,
+        navigation: {
+            nextEl: '.arrow-right',
+            prevEl: '.arrow-left',
+        },
+
+        breakpoints: {
+            320: {
+                slidesPerView: 2,
+                spaceBetween: 5,
+            },
+            768: {
+                slidesPerView: 4,
+                spaceBetween: 10,
+            },
+            1024: {
+                slidesPerView: 5,
+                spaceBetween: 10,
+            },
+        },
+
+        pagination: {
+            el: ".pagination",
+            clickable: true,
+        },
+    });
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,165 @@
+
+.title{
+
+}
+
+.title-xs{
+  @apply text-2xl;
+}
+
+.title-small{
+  @apply text-xl  tracking-tight;
+}
+.title-sm{
+  @apply lg:text-3xl text-lg;
+}
+
+.title-lg{
+  @apply text-5xl;
+}
+
+.title-xl{
+  @apply lg:text-6xl text-4xl;
+}
+
+.title-normal{
+  @apply text-3xl;
+}
+
+.btn{
+  @apply font-bold rounded-lg cursor-pointer focus:outline-none text-white transition-colors duration-150;
+}
+
+.btn-primary{
+  @apply bg-primary hover:bg-opacity-90;
+}
+
+.btn-secondary{
+  @apply bg-secondary hover:bg-opacity-90;
+}
+
+.btn-lg{
+  @apply h-12 px-6 text-lg;
+}
+
+.btn-regular{
+  @apply h-10 px-5 m-2;
+}
+
+.input-lg{
+  @apply w-full h-12 px-4 mb-2 text-lg text-primary text-opacity-60 placeholder-primary placeholder-opacity-90 border rounded-lg focus:outline-none;
+}
+.label-input{
+  @apply block mb-1
+}
+
+.form-group{
+  @apply flex flex-col;
+}
+
+.form-block{
+  @apply p-5 flex flex-col overflow-hidden rounded-lg border border-primary border-opacity-20;
+}
+
+.form-header{
+  @apply pb-5;
+}
+
+.form-footer{
+  @apply py-5;
+}
+
+.card{
+  @apply overflow-hidden rounded-lg border border-primary border-opacity-20;
+}
+
+.card-body{
+  @apply px-6 py-4 flex flex-col items-center;
+}
+
+.card-title{
+  @apply mb-3 font-bold;
+}
+
+.card-content{
+  @apply leading-normal text-primary text-opacity-90;
+}
+
+.icon{
+  @apply rounded-full p-1 flex items-center justify-center;
+}
+
+.icon-lg{
+  @apply w-14 h-14
+}
+
+.icon-sm{
+  @apply  lg:w-14 w-10 lg:h-14 h-10;
+}
+
+.icon-primary{
+  @apply bg-primary text-white;
+}
+
+.icon-gray{
+  @apply bg-gray;
+}
+
+.icon-outline{
+  @apply bg-none;
+}
+
+.icon-transparent{
+  @apply bg-none;
+}
+
+.navbar{
+  @apply w-full z-60;
+}
+
+.navbar-wrap{
+  @apply w-full flex items-center justify-between;
+}
+
+.navbar-wrap__item{
+  @apply lg:flex items-center relative w-full;
+}
+
+.row{
+  @apply flex flex-wrap mx-5;
+}
+
+
+.navbar-menu{
+  @apply lg:flex flex-1 lg:bg-transparent lg:static absolute top-16 left-0 z-60 w-full ;
+}
+
+.navbar-menu__item{
+  @apply  lg:border-none border border-white border-opacity-5;
+}
+
+.navbar-menu__link{
+  @apply p-5  font-medium;
+}
+
+.icon-hero{
+  @apply absolute z-50 bottom-10 border border-white border-opacity-20;
+
+}
+
+.content{
+  @apply  py-5 w-full;
+}
+
+.banner-hero{
+  @apply relative lg:h-screen/2 h-screen;
+}
+
+.banner{
+  @apply flex flex-col justify-center items-start;
+}
+
+
+
+.banner-wrap{
+  @apply relative w-full h-full}
