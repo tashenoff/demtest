@@ -249,8 +249,7 @@
             <div class="container mx-auto">
                 <div class="row ">
                     <div class="flex w-full items-center justify-center">
-                        <form class="form-block -top-20 z-50 relative group lg:w-1/2 bg-white border border-primary"
-                              action="">
+                        <div class="-top-20 bg-white border border-primary border-opacity-20 rounded-lg form-block group lg:w-1/2 relative z-50 p-5">
                             <div class="form-header">
 
                                 <div class="flex items-center">
@@ -266,19 +265,8 @@
                                 </div>
 
                             </div>
-                            <div class="form-group mb-3">
-                                <label class="label-input">Ваше имя</label>
-                                <input class="input-lg" type="text" placeholder="Алексей">
-                            </div>
-
-                            <div class="form-group">
-                                <label class="label-input">Номер телефона</label>
-                                <input class="input-lg" type="text" placeholder="+7___ __ __">
-                            </div>
-                            <div class="form-footer">
-                                <button class="btn btn-lg btn-secondary w-full">Отправить</button>
-                            </div>
-                        </form>
+                        <include src="./partials/form.html"></include>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -318,7 +306,10 @@
 </section>
 
 
-<include src="./partials/modal.html"></include>
+<include src="./partials/modal.html"  locals='{
+    "title": "Оставьте заявку",
+    "text": "Мы вам перезвоним"
+    }'></include>
 
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/alpine-collective/alpine-magic-helpers/dist/scroll.js"></script>

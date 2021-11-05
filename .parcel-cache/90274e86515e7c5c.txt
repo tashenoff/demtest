@@ -1,4 +1,4 @@
-17149
+17150
 67B:\work\alex\vite\3\node_modules\highlight.js\lib\languages\stan.js121436361000000000 0
 63B:\work\alex\vite\3\node_modules\svgo\plugins\removeComments.js121436361000000000 0
 63B:\work\alex\vite\3\node_modules\which-typed-array\package.json132805892430170660 0
@@ -15,7 +15,7 @@
 58B:\work\alex\vite\3\node_modules\json-source-map\README.md121436361000000000 0
 56B:\work\alex\vite\3\node_modules\lodash\_baseToNumber.js121436361000000000 0
 41B:\work\alex\vite\3\node_modules\inherits132805892620144083 1
-24B:\work\alex\vite\3\dist132805990441162242 1
+24B:\work\alex\vite\3\dist132806009536007465 1
 51B:\work\alex\vite\3\node_modules\is-nan\polyfill.js121436361000000000 0
 62B:\work\alex\vite\3\node_modules\postcss-minify-gradients\dist132805891815207199 1
 49B:\work\alex\vite\3\node_modules\extend\.eslintrc121436361000000000 0
@@ -77,7 +77,7 @@
 62B:\work\alex\vite\3\node_modules\ncp\test\modified-files\src\a130645404000000000 0
 98B:\work\alex\vite\3\node_modules\postcss-modules-scope\node_modules\source-map\lib\mapping-list.js131369414910000000 0
 110B:\work\alex\vite\3\node_modules\postcss-modules-local-by-default\node_modules\source-map\lib\binary-search.js131369414910000000 0
-25B:\work\alex\vite\3\.idea132805990255447305 1
+25B:\work\alex\vite\3\.idea132806009306865981 1
 92B:\work\alex\vite\3\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableCaptionElement.js121436361000000000 0
 36B:\work\alex\vite\3\node_modules\nan132805892578277048 1
 27B:\work\alex\vite\3\LICENSE132805891528498797 0
@@ -146,12 +146,12 @@
 60B:\work\alex\vite\3\node_modules\readable-stream\readable.js121436361000000000 0
 58B:\work\alex\vite\3\node_modules\base64-js\base64js.min.js121436361000000000 0
 60B:\work\alex\vite\3\node_modules\@types\parse-json\README.md131550930030000000 0
-23B:\work\alex\vite\3\src132805990150174391 1
+23B:\work\alex\vite\3\src132806008224859155 1
 58B:\work\alex\vite\3\node_modules\is-binary-path\index.d.ts121436361000000000 0
 60B:\work\alex\vite\3\node_modules\path-is-inside\package.json132805892536811815 0
 64B:\work\alex\vite\3\node_modules\caniuse-lite\data\regions\PR.js121436361000000000 0
 56B:\work\alex\vite\3\node_modules\lodash\_baseIsNative.js121436361000000000 0
-38B:\work\alex\vite\3\tailwind.config.js132805921256909007 0
+38B:\work\alex\vite\3\tailwind.config.js132805992959434990 0
 36B:\work\alex\vite\3\node_modules\psl132805892518309059 1
 62B:\work\alex\vite\3\node_modules\parse5\lib\tokenizer\index.js121436361000000000 0
 73B:\work\alex\vite\3\node_modules\yaml\browser\dist\PlainValue-b8036b75.js121436361000000000 0
@@ -160,7 +160,7 @@
 64B:\work\alex\vite\3\node_modules\caniuse-lite\data\regions\EG.js121436361000000000 0
 55B:\work\alex\vite\3\node_modules\is-shared-array-buffer132805892604438765 1
 70B:\work\alex\vite\3\node_modules\readable-stream\lib\_stream_duplex.js121436361000000000 0
-27B:\work\alex\vite\3\src\css132805976504646626 1
+27B:\work\alex\vite\3\src\css132806006237969208 1
 70B:\work\alex\vite\3\node_modules\which-typed-array\.github\FUNDING.yml121436361000000000 0
 69B:\work\alex\vite\3\node_modules\tailwindcss\lib\plugins\hueRotate.js121436361000000000 0
 44B:\work\alex\vite\3\node_modules\import-from132805892621716072 1
@@ -191,7 +191,7 @@
 103B:\work\alex\vite\3\node_modules\postcss-modules-local-by-default\node_modules\supports-color\readme.md131663821590000000 0
 29B:\work\alex\vite\3\src\fonts132805910931047766 1
 71B:\work\alex\vite\3\node_modules\@parcel\utils\lib\isDirectoryInside.js121436361000000000 0
-34B:\work\alex\vite\3\src\index.html132805990150164428 0
+34B:\work\alex\vite\3\src\index.html132806008224849031 0
 48B:\work\alex\vite\3\node_modules\brace-expansion132805892662843304 1
 89B:\work\alex\vite\3\node_modules\resolve\test\resolver\nested_symlinks\mylib\package.json121436361000000000 0
 53B:\work\alex\vite\3\node_modules\xmlchars\xmlchars.js121436361000000000 0
@@ -232,7 +232,7 @@
 55B:\work\alex\vite\3\node_modules\lodash\_baseInRange.js121436361000000000 0
 72B:\work\alex\vite\3\node_modules\es-abstract\2017\OrdinaryToPrimitive.js121436361000000000 0
 56B:\work\alex\vite\3\node_modules\lodash\fp\upperFirst.js121436361000000000 0
-32B:\work\alex\vite\3\src\partials132805990439022269 1
+32B:\work\alex\vite\3\src\partials132806009533777328 1
 66B:\work\alex\vite\3\node_modules\@parcel\core\lib\public\Target.js121436361000000000 0
 50B:\work\alex\vite\3\node_modules\nanoid\non-secure132805891867426457 1
 67B:\work\alex\vite\3\node_modules\cosmiconfig\dist\ExplorerSync.d.ts121436361000000000 0
@@ -284,11 +284,19 @@
 48B:\work\alex\vite\3\node_modules\isarray\test.js130942154450000000 0
 57B:\work\alex\vite\3\node_modules\detect-libc\package.json132805892646440115 0
 41B:\work\alex\vite\3\node_modules\msgpackr132805892550757857 1
+63B:\work\alex\vite\3\node_modules\@parcel\workers\src\backend.js121436361000000000 0
+100B:\work\alex\vite\3\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json121436361000000000 0
+66B:\work\alex\vite\3\node_modules\jsdom\lib\jsdom\living\webstorage132805892001294647 1
+67B:\work\alex\vite\3\node_modules\posthtml-expressions\lib\backup.js121436361000000000 0
+75B:\work\alex\vite\3\node_modules\es-abstract\2016\RequireObjectCoercible.js121436361000000000 0
+42B:\work\alex\vite\3\src\partials\form.html132806006705822195 0
+63B:\work\alex\vite\3\node_modules\es-abstract\2020\DaysInYear.js121436361000000000 0
+39B:\work\alex\vite\3\node_modules\ws\lib132805891757085784 1
 60B:\work\alex\vite\3\node_modules\@parcel\bundler-default\lib132805891752525790 1
 45B:\work\alex\vite\3\node_modules\ansi-escapes132805892395651144 1
 62B:\work\alex\vite\3\node_modules\postcss-load-config\README.md121436361000000000 0
 60B:\work\alex\vite\3\node_modules\regenerator-runtime\LICENSE121436361000000000 0
-43B:\work\alex\vite\3\src\partials\modal.html132805990439012247 0
+43B:\work\alex\vite\3\src\partials\modal.html132806009533757402 0
 44B:\work\alex\vite\3\src\partials\navbar.html132805957839647027 0
 92B:\work\alex\vite\3\node_modules\tailwindcss\node_modules\fast-glob\out\providers\async.d.ts121436361000000000 0
 76B:\work\alex\vite\3\node_modules\core-js\features\typed-array\int16-array.js121436361000000000 0
@@ -384,7 +392,7 @@
 69B:\work\alex\vite\3\node_modules\core-js\es\string\virtual\pad-end.js121436361000000000 0
 57B:\work\alex\vite\3\node_modules\resolve\example\async.js121436361000000000 0
 84B:\work\alex\vite\3\node_modules\postcss-selector-parser\dist\selectors\namespace.js121436361000000000 0
-35B:\work\alex\vite\3\src\css\ui.scss132805157843230751 0
+35B:\work\alex\vite\3\src\css\ui.scss132806006237959264 0
 66B:\work\alex\vite\3\node_modules\core-js\features\string\repeat.js121436361000000000 0
 51B:\work\alex\vite\3\node_modules\core-js\web\url.js121436361000000000 0
 40B:\work\alex\vite\3\node_modules\asn1.js132805892505789035 1
@@ -412,12 +420,6 @@
 56B:\work\alex\vite\3\node_modules\postcss-load-config\src132805891750805792 1
 66B:\work\alex\vite\3\node_modules\uri-js\dist\esnext\regexps-uri.js121436361000000000 0
 39B:\work\alex\vite\3\node_modules\@iarna132805892238986657 1
-44B:\work\alex\vite\3\node_modules\assert-plus132805892395701154 1
-80B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\deviceorientation.js121436361000000000 0
-82B:\work\alex\vite\3\node_modules\highlight.js\styles\atelier-sulphurpool-light.css121436361000000000 0
-83B:\work\alex\vite\3\node_modules\postcss-modules-extract-imports\node_modules\chalk132805892534668396 1
-52B:\work\alex\vite\3\node_modules\yallist\iterator.js121436361000000000 0
-76B:\work\alex\vite\3\node_modules\highlight.js\scss\atelier-seaside-dark.scss121436361000000000 0
 38B:\work\alex\vite\3\node_modules\acorn132805892397138601 1
 54B:\work\alex\vite\3\node_modules\lodash\_baseUpdate.js121436361000000000 0
 56B:\work\alex\vite\3\node_modules\path-browserify\.github132805891836261646 1
@@ -535,6 +537,12 @@
 47B:\work\alex\vite\3\node_modules\browserify-rsa132805892506090178 1
 52B:\work\alex\vite\3\node_modules\ansi-html-community132805892397148626 1
 39B:\work\alex\vite\3\node_modules\assert132805892442573070 1
+44B:\work\alex\vite\3\node_modules\assert-plus132805892395701154 1
+80B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\deviceorientation.js121436361000000000 0
+82B:\work\alex\vite\3\node_modules\highlight.js\styles\atelier-sulphurpool-light.css121436361000000000 0
+83B:\work\alex\vite\3\node_modules\postcss-modules-extract-imports\node_modules\chalk132805892534668396 1
+52B:\work\alex\vite\3\node_modules\yallist\iterator.js121436361000000000 0
+76B:\work\alex\vite\3\node_modules\highlight.js\scss\atelier-seaside-dark.scss121436361000000000 0
 58B:\work\alex\vite\3\node_modules\postcss-modules-scope\lib132805891820881691 1
 68B:\work\alex\vite\3\node_modules\es-abstract\2017\SetFunctionName.js121436361000000000 0
 65B:\work\alex\vite\3\node_modules\tailwindcss\lib\plugins\width.js121436361000000000 0
@@ -2045,7 +2053,7 @@
 46B:\work\alex\vite\3\node_modules\node-releases132805892550143443 1
 107B:\work\alex\vite\3\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\stripComments.js121436361000000000 0
 71B:\work\alex\vite\3\node_modules\@parcel\transformer-babel\src\utils.js121436361000000000 0
-46B:\work\alex\vite\3\dist\icomoon.ec2155a9.woff132805982947540783 0
+46B:\work\alex\vite\3\dist\icomoon.ec2155a9.woff132805993169269754 0
 63B:\work\alex\vite\3\node_modules\@iarna\toml\lib\toml-parser.js121436361000000000 0
 65B:\work\alex\vite\3\node_modules\htmlnano\docs\versioned_sidebars132805891760635781 1
 54B:\work\alex\vite\3\node_modules\is-typedarray\test.js130461234390000000 0
@@ -2199,7 +2207,7 @@
 55B:\work\alex\vite\3\node_modules\postcss-merge-longhand132805892461665450 1
 98B:\work\alex\vite\3\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\node.js121436361000000000 0
 93B:\work\alex\vite\3\node_modules\postcss-modules-values\node_modules\postcss\lib\stringify.js121436361000000000 0
-46B:\work\alex\vite\3\dist\index.41b293a4.js.map132805985151595752 0
+46B:\work\alex\vite\3\dist\index.41b293a4.js.map132805995364797610 0
 51B:\work\alex\vite\3\node_modules\parse-asn1\asn1.js121436361000000000 0
 59B:\work\alex\vite\3\node_modules\postcss-minify-font-values132805892520229295 1
 64B:\work\alex\vite\3\node_modules\type-fest\source\utilities.d.ts121436361000000000 0
@@ -2998,13 +3006,6 @@
 61B:\work\alex\vite\3\node_modules\lodash\fp\lastIndexOfFrom.js121436361000000000 0
 44B:\work\alex\vite\3\node_modules\ws\index.js121436361000000000 0
 72B:\work\alex\vite\3\node_modules\readable-stream\lib\_stream_writable.js121436361000000000 0
-63B:\work\alex\vite\3\node_modules\@parcel\workers\src\backend.js121436361000000000 0
-100B:\work\alex\vite\3\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json121436361000000000 0
-66B:\work\alex\vite\3\node_modules\jsdom\lib\jsdom\living\webstorage132805892001294647 1
-67B:\work\alex\vite\3\node_modules\posthtml-expressions\lib\backup.js121436361000000000 0
-75B:\work\alex\vite\3\node_modules\es-abstract\2016\RequireObjectCoercible.js121436361000000000 0
-63B:\work\alex\vite\3\node_modules\es-abstract\2020\DaysInYear.js121436361000000000 0
-39B:\work\alex\vite\3\node_modules\ws\lib132805891757085784 1
 76B:\work\alex\vite\3\node_modules\highlight.js\scss\atelier-savanna-dark.scss121436361000000000 0
 68B:\work\alex\vite\3\node_modules\uri-js\dist\esnext\schemes\urn.d.ts121436361000000000 0
 48B:\work\alex\vite\3\node_modules\format\Makefile130580529530000000 0
@@ -5266,6 +5267,7 @@
 75B:\work\alex\vite\3\node_modules\core-js\features\instance\filter-reject.js121436361000000000 0
 73B:\work\alex\vite\3\node_modules\string.prototype.trimstart\.eslintignore121436361000000000 0
 101B:\work\alex\vite\3\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\warning.js121436361000000000 0
+43B:\work\alex\vite\3\dist\index.94a37cbb.css132805993200605317 0
 48B:\work\alex\vite\3\node_modules\reusify\test.js131614319170000000 0
 74B:\work\alex\vite\3\node_modules\@babel\helper-module-imports\package.json132805892480185153 0
 50B:\work\alex\vite\3\node_modules\request\README.md121436361000000000 0
@@ -8334,8 +8336,8 @@
 61B:\work\alex\vite\3\node_modules\object-inspect\example\fn.js121436361000000000 0
 51B:\work\alex\vite\3\node_modules\diffie-hellman\lib132805891781214329 1
 69B:\work\alex\vite\3\node_modules\core-js\features\string\fontcolor.js121436361000000000 0
-50B:\work\alex\vite\3\node_modules\gensync\README.md121436361000000000 0
 67B:\work\alex\vite\3\node_modules\object-inspect\.github\FUNDING.yml121436361000000000 0
+50B:\work\alex\vite\3\node_modules\gensync\README.md121436361000000000 0
 49B:\work\alex\vite\3\node_modules\object-hash\dist132805891831377966 1
 52B:\work\alex\vite\3\node_modules\object-hash\LICENSE121436361000000000 0
 56B:\work\alex\vite\3\node_modules\oauth-sign\package.json132805892543790450 0
@@ -10081,7 +10083,7 @@
 53B:\work\alex\vite\3\node_modules\lmdb-store\benchmark132805891839906219 1
 89B:\work\alex\vite\3\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFieldSetElement-impl.js121436361000000000 0
 56B:\work\alex\vite\3\node_modules\lmdb-store\dependencies132805891761965800 1
-45B:\work\alex\vite\3\dist\icomoon.30f13848.svg132805982947540783 0
+45B:\work\alex\vite\3\dist\icomoon.30f13848.svg132805993169269754 0
 48B:\work\alex\vite\3\node_modules\lmdb-store\dict132805891992664664 1
 52B:\work\alex\vite\3\node_modules\lmdb-store\index.js121436361000000000 0
 51B:\work\alex\vite\3\node_modules\lmdb-store\LICENSE121436361000000000 0
@@ -10298,7 +10300,7 @@
 66B:\work\alex\vite\3\node_modules\json-schema\draft-00\hyper-schema129340000440000000 0
 67B:\work\alex\vite\3\node_modules\jake\node_modules\has-flag\license131408182550000000 0
 60B:\work\alex\vite\3\node_modules\json-schema\draft-00\schema129340000440000000 0
-45B:\work\alex\vite\3\dist\icomoon.ba5a5b03.ttf132805985151445738 0
+45B:\work\alex\vite\3\dist\icomoon.ba5a5b03.ttf132805995364667608 0
 82B:\work\alex\vite\3\node_modules\jsdom\lib\jsdom\living\generated\HTMLBRElement.js121436361000000000 0
 64B:\work\alex\vite\3\node_modules\fast-glob\out\readers\sync.d.ts121436361000000000 0
 75B:\work\alex\vite\3\node_modules\json-parse-even-better-errors\CHANGELOG.md121436361000000000 0
@@ -12403,7 +12405,6 @@
 67B:\work\alex\vite\3\node_modules\es-abstract\2020\IsStringPrefix.js121436361000000000 0
 74B:\work\alex\vite\3\node_modules\es-abstract\2020\IsUnsignedElementType.js121436361000000000 0
 67B:\work\alex\vite\3\node_modules\es-abstract\2020\IterableToList.js121436361000000000 0
-65B:\work\alex\vite\3\node_modules\@nodelib\fs.scandir\package.json132805892504440551 0
 66B:\work\alex\vite\3\node_modules\es-abstract\2020\IteratorClose.js121436361000000000 0
 55B:\work\alex\vite\3\node_modules\colord\plugins\lab.mjs121436361000000000 0
 69B:\work\alex\vite\3\node_modules\es-abstract\2020\IteratorComplete.js121436361000000000 0
@@ -12713,7 +12714,7 @@
 71B:\work\alex\vite\3\node_modules\es-abstract\2018\SameValueNonNumber.js121436361000000000 0
 66B:\work\alex\vite\3\node_modules\es-abstract\2018\SameValueZero.js121436361000000000 0
 76B:\work\alex\vite\3\node_modules\@parcel\workers\lib\threads\ThreadsChild.js121436361000000000 0
-47B:\work\alex\vite\3\dist\index.2c4ab0d4.css.map132805985151605748 0
+47B:\work\alex\vite\3\dist\index.2c4ab0d4.css.map132806006362097482 0
 90B:\work\alex\vite\3\node_modules\core-js\modules\es.reflect.get-own-property-descriptor.js121436361000000000 0
 60B:\work\alex\vite\3\node_modules\@parcel\package-manager\src132805891767118510 1
 64B:\work\alex\vite\3\node_modules\es-abstract\2018\SecFromTime.js121436361000000000 0
@@ -15437,7 +15438,6 @@
 84B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\css-media-interaction.js121436361000000000 0
 79B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\css-mixblendmode.js121436361000000000 0
 69B:\work\alex\vite\3\node_modules\@swc\helpers\lib\_sliced_to_array.js132732114300000000 0
-43B:\work\alex\vite\3\dist\index.39ff3494.css132805982976400744 0
 74B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\css-nesting.js121436361000000000 0
 79B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\css-nth-child-of.js121436361000000000 0
 78B:\work\alex\vite\3\node_modules\caniuse-lite\data\features\css-paged-media.js121436361000000000 0
@@ -16719,6 +16719,7 @@
 71B:\work\alex\vite\3\node_modules\@nodelib\fs.stat\out\providers\sync.js121436361000000000 0
 70B:\work\alex\vite\3\node_modules\@nodelib\fs.stat\out\adapters\fs.d.ts121436361000000000 0
 68B:\work\alex\vite\3\node_modules\@nodelib\fs.stat\out\adapters\fs.js121436361000000000 0
+65B:\work\alex\vite\3\node_modules\@nodelib\fs.scandir\package.json132805892504440551 0
 62B:\work\alex\vite\3\node_modules\@nodelib\fs.scandir\README.md121436361000000000 0
 71B:\work\alex\vite\3\node_modules\@nodelib\fs.scandir\out\constants.d.ts121436361000000000 0
 66B:\work\alex\vite\3\node_modules\@nodelib\fs.scandir\out\providers132805891811839622 1
@@ -17134,17 +17135,17 @@
 46B:\work\alex\vite\3\node_modules\.bin\uuid.cmd132805892675680498 0
 46B:\work\alex\vite\3\node_modules\.bin\uuid.ps1132805892675670389 0
 47B:\work\alex\vite\3\node_modules\.bin\which.ps1132805892675760536 0
-45B:\work\alex\vite\3\dist\icomoon.17809b37.eot132805985151435713 0
-46B:\work\alex\vite\3\dist\icomoon.3d48228d.woff132805985151445738 0
-45B:\work\alex\vite\3\dist\icomoon.8fbc0b6c.ttf132805982947540783 0
-45B:\work\alex\vite\3\dist\icomoon.94ee003c.eot132805982947540783 0
-45B:\work\alex\vite\3\dist\icomoon.f1b285a9.svg132805985151445738 0
-43B:\work\alex\vite\3\dist\index.2c4ab0d4.css132805985151465813 0
-47B:\work\alex\vite\3\dist\index.39ff3494.css.map132805982976450753 0
-42B:\work\alex\vite\3\dist\index.41b293a4.js132805985151435713 0
-42B:\work\alex\vite\3\dist\index.f2ab4adb.js132805982976400744 0
-46B:\work\alex\vite\3\dist\index.f2ab4adb.js.map132805982976440749 0
-35B:\work\alex\vite\3\dist\index.html132805990441152245 0
+45B:\work\alex\vite\3\dist\icomoon.17809b37.eot132805995364667608 0
+46B:\work\alex\vite\3\dist\icomoon.3d48228d.woff132805995364667608 0
+45B:\work\alex\vite\3\dist\icomoon.8fbc0b6c.ttf132805993169269754 0
+45B:\work\alex\vite\3\dist\icomoon.94ee003c.eot132805993169269754 0
+45B:\work\alex\vite\3\dist\icomoon.f1b285a9.svg132805995364667608 0
+43B:\work\alex\vite\3\dist\index.2c4ab0d4.css132806006361997451 0
+42B:\work\alex\vite\3\dist\index.41b293a4.js132805995364667608 0
+47B:\work\alex\vite\3\dist\index.94a37cbb.css.map132805993200665292 0
+42B:\work\alex\vite\3\dist\index.f2ab4adb.js132805993200605317 0
+46B:\work\alex\vite\3\dist\index.f2ab4adb.js.map132805993200635291 0
+35B:\work\alex\vite\3\dist\index.html132806009535997493 0
 39B:\work\alex\vite\3\.netlify\state.json132805902663288244 0
 31B:\work\alex\vite\3\.idea\3.iml132805901848046111 0
-39B:\work\alex\vite\3\.idea\workspace.xml132805990439622238 0
+39B:\work\alex\vite\3\.idea\workspace.xml132806009534447473 0
